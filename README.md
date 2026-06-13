@@ -1,11 +1,5 @@
-I'm a CS sophomore @ UIUC
+CS sophomore @ UIUC
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=164901399" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=164901399&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @CyT1ng" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=164901399&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
+[![CyT1ng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyT1ng&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
